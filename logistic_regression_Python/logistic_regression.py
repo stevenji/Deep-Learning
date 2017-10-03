@@ -33,7 +33,7 @@ def image_show(index,dataset):
         print ("y = " + str(train_set_y[:, index]) + ", 它是一张" + classes[np.squeeze(train_set_y[:, index])].decode("utf-8") +  "' 图片。")
     elif dataset == "test":
         plt.imshow(test_set_x_orig[index])
-        print ("y = " + str(test_set_y[:, index]) + ", 它是一张" + classes[np.squeeze(train_set_y[:, index])].decode("utf-8") +  "' 图片。")
+        print ("y = " + str(test_set_y[:, index]) + ", 它是一张" + classes[np.squeeze(test_set_y[:, index])].decode("utf-8") +  "' 图片。")
 
 #sigmoid函数
 def sigmoid(z):
