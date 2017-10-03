@@ -9,4 +9,4 @@ some projects and materials of deep learning
 
 [深度学习：神经网络](http://binweber.top/2017/09/25/deep_learning_2/)
 
-[深度学习：优化神经网络](http://binweber.top/2017/09/28/deep_learning_3/)
+[深度学习：优化神经网络(1)](http://binweber.top/2017/09/28/deep_learning_3/)
