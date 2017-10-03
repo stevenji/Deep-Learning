@@ -7,4 +7,6 @@ some projects and materials of deep learning
 
 [深度学习：Logistic 回归](http://binweber.top/2017/09/12/deep_learning_1/)
 
-[深度学习：神经网络](http://binweber.top/2017/09/25/deep_learning_2/)    
+[深度学习：神经网络](http://binweber.top/2017/09/25/deep_learning_2/)
+
+[深度学习：优化神经网络](http://binweber.top/2017/09/28/deep_learning_3/)
